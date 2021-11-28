@@ -7,7 +7,7 @@ btn.addEventListener("click", function () {
     const number = getRandomNumber()
     colorName.textContent = colors[number]
     document.body.style.backgroundColor = colors[number]
-   console.log(number)
+   
 })
 
 function getRandomNumber() {
