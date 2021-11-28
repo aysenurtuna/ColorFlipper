@@ -1,0 +1,43 @@
+body{
+    font-family: 'Space Grotesk', sans-serif;}
+.nav, h4{
+    line-height: 50px;
+}
+ul{
+    list-style: none;
+    float: right;
+}
+a{
+    color: #fff;
+}
+h4{
+    padding-top: 10px;
+    float: left;
+    color: #fff;
+}
+nav{
+    box-shadow: 5px 5px 6px #a1a1a1;
+}
+h2{
+    display: inline-flex;
+}
+.mainSection{
+    margin-top: auto;
+    border-radius: 20px;
+   line-height: 75px;
+}
+.span{
+    font-size: 30px;
+}
+main{
+    margin-top: 200px;
+}
+#btn{
+    border:2px solid #212529;
+    border-radius: 10px;
+    width: fit-content;
+}
+#btn:hover{
+    color: #fff;
+    background-color: #212529;
+}
